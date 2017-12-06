@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tmdb sample</string>
+    <string name="movie">movie</string>
+    <string name="settings">setting</string>
+    <string name="about">about</string>
+</resources>
