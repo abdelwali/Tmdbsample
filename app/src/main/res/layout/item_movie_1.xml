@@ -14,7 +14,7 @@
         <ImageView
             android:id="@+id/tv_image"
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="180dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:contentDescription="poster"
             android:scaleType="fitXY" />
@@ -32,7 +32,7 @@
         <TextView
             android:id="@+id/tv_description"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_gravity="left"
             android:layout_marginLeft="4dp"
             android:layout_marginRight="3dp"
